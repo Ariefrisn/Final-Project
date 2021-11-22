@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #024dee;
+}
+
+#about {
+  background-color: #0572df;
+}
+
+#skills {
+  background-color: #ff0000;
+}
+#skills {
+  background-color: #cc1d1d;
+}
+
+#contact {
+  background-color: #0080ff;
+  height: 700px;
+}
+
+section {
+  padding-top: 5rem;
+}
